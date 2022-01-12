@@ -1,0 +1,59 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
+* {
+    font-family: 'Hind', sans-serif !important; 
+}
+.product-title {
+    font-size: 28px;
+}
+
+.product-title-sm {
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+
+.price-bold {
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.price-discount {
+    font-size: 18px;
+    color: rgb(154, 154, 154);
+    text-decoration: line-through;
+}
+
+.link {
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+    line-height: 1.714;
+}
+
+.nav-story {
+    font-size: 14px;
+    line-height: 1.714;
+    color: black !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+.active{
+    border-bottom: 2px solid black;
+}
+.select{
+    border: 0.1em solid grey;
+}
+
+.accordion-button {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+  
+  
